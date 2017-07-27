@@ -1,0 +1,32 @@
+.root {
+    -fx-background-image: url("../../../res/background.jpg");
+    -fx-background-repeat: stretch;
+}
+
+.button {
+    -fx-background-color: #28FF28;
+    -fx-border-color:#53FF53;
+    -fx-text-fill: gray;
+    -fx-font-size: 25;
+    -fx-border-radius: 10;
+}
+
+.button:hover {
+    -fx-border-color: #7AFEC6;
+    -fx-background-color: #1AFD9C;
+}
+
+.button:pressed {
+-fx-border-color: #00BB00;
+    -fx-background-color: #00A600;
+}
+
+#fancytext {
+    -fx-font: 100px Helvetica;
+    -fx-fill: linear-gradient( to left top, green, red);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+
+
