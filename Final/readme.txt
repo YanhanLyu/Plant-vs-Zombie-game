@@ -1,7 +1,7 @@
 Contributor: Yanhan Lyu, Lucy Wu.
 
 Phase_2:
-Almost works as we expected except that we do not implement potato mine since we do not have eoungh time.
+Almost works as we expected except that we do not implement potato mine since we do not have enough time.
 
 
 Brief Description:
